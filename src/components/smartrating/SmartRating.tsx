@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./SmartRating.css";
+import "./style.scss"
 import { SmartRatingProps } from "./SmartRating.types";
 
 const SmartRating: React.FC<SmartRatingProps> = (props) => {

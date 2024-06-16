@@ -2,7 +2,7 @@ import { StoryFn, Meta } from "@storybook/react";
 import SmartRating from "./SmartRating";
 
 export default {
-    title: "ReactComponentLibrary/Rating",
+    title: "Rain UI/Rating",
     component: SmartRating,
 } as Meta<typeof SmartRating>;
 
